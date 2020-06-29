@@ -112,7 +112,7 @@ ggplot(data = intervalAggData, aes(x = interval, y = steps)) +
 ```
 
 
-Weekdays have the greatest peak in steps during specific intervals. But, the overall average shown in the graph for steps over the course of the average weekend day is higher across a large number of time intervals. It is likely that if we looked deeper into the set, we would be able to confirm people are more consistent with their steps on weekends than weekdays.
+Weekdays have the greatest peak in steps during specific intervals. But, the overall average shown in the graph for steps  over the course of the average weekend day is higher across a large number of time intervals. It is likely that if we  looked deeper into the set, we would be able to confirm people are more consistent with their steps on weekends than weekdays.
 
 
 
